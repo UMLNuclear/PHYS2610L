@@ -1,2 +1,2 @@
 # PHYS2610L
-physics 2610L
+welcome to physics 2610L!
